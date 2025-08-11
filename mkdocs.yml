@@ -1,0 +1,14 @@
+site_name: Mothership Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - content.code.copy
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Overview: system_overview.md
+  - Hardware: hardware.md
+  - Software: software.md
+
